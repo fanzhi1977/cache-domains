@@ -4,6 +4,10 @@
       "name": "arenanet",
       "description": "CDN for Guild Wars, HoT",
       "domain_files": ["arenanet.txt"]
+    }, {
+      "name": "tencent",
+      "description": "Tencent Domains",
+      "domain_files": ["tencent.txt"]
     },
     {
       "name": "blizzard",
