@@ -1,1 +1,2 @@
 mirrors.tencent.com
+mirror.nsc.liu.se
